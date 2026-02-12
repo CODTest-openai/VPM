@@ -33,6 +33,9 @@ Streamlit-based local tool for FMCG revenue management that computes Volume/Pric
 ├── data/
 │   ├── sample_main.csv
 │   └── sample_with_exceptions.csv
+├── scripts/
+│   ├── run_app.bat
+│   └── run_tests.bat
 ├── tests/
 │   └── test_vpm_tieout.py
 ├── exports/
@@ -71,12 +74,13 @@ Required columns:
    ```
 5. Start app:
    ```powershell
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
-6. In the app:
-   - Upload `data/sample_main.csv` or your own file.
-   - Set filters and run analysis.
-   - Click **Export bridge-ready Excel**.
+
+Alternative using batch helper:
+```powershell
+scripts\run_app.bat
+```
 
 ## Export location
 Exports are written to:
@@ -90,9 +94,19 @@ Sheets in export:
 5. `Exceptions`
 
 ## Run tests
-From repo root:
+Primary command (works without pytest runner):
+```bash
+python tests/test_vpm_tieout.py
+```
+
+Optional with pytest:
 ```bash
 pytest -q
+```
+
+Alternative using batch helper:
+```powershell
+scripts\run_tests.bat
 ```
 
 Tests include tie-out assertions for:
