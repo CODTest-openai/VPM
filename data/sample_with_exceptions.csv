@@ -1,0 +1,63 @@
+Business Unit,Year,Month,Product Category,Sku Code,Sku Name,Scenario,Units Sold,Revenue
+North,2025,3,Beverages,BEV1,Cola 330ml,ACT,100,200
+North,2025,3,Beverages,BEV2,Orange 500ml,ACT,80,176
+North,2025,3,Beverages,BEV3,Tonic 250ml,ACT,50,75
+North,2025,3,Snacks,SNK1,Chips Salt,ACT,120,240
+North,2025,3,Snacks,SNK2,Nuts Mix,ACT,60,180
+North,2026,3,Beverages,BEV1,Cola 330ml,ACT,110.0,242.0
+North,2026,3,Beverages,BEV2,Orange 500ml,ACT,70.0,168.0
+North,2026,3,Beverages,BEV4,Energy 250ml,ACT,30.0,105.0
+North,2026,3,Snacks,SNK1,Chips Salt,ACT,130.0,273.0
+North,2026,3,Snacks,SNK2,Nuts Mix,ACT,55.0,176.0
+North,2026,3,Snacks,SNK3,Crackers,ACT,25.0,70.0
+North,2026,4,Beverages,BEV1,Cola 330ml,ACT,121.00000000000001,266.20000000000005
+North,2026,4,Beverages,BEV2,Orange 500ml,ACT,77.0,184.8
+North,2026,4,Beverages,BEV4,Energy 250ml,ACT,33.0,115.50000000000001
+North,2026,4,Snacks,SNK1,Chips Salt,ACT,143.0,300.3
+North,2026,4,Snacks,SNK2,Nuts Mix,ACT,60.50000000000001,193.60000000000002
+North,2026,4,Snacks,SNK3,Crackers,ACT,27.500000000000004,77.0
+North,2026,5,Beverages,BEV1,Cola 330ml,ACT,99.0,217.8
+North,2026,5,Beverages,BEV2,Orange 500ml,ACT,63.0,151.20000000000002
+North,2026,5,Beverages,BEV4,Energy 250ml,ACT,27.0,94.5
+North,2026,5,Snacks,SNK1,Chips Salt,ACT,117.0,245.70000000000002
+North,2026,5,Snacks,SNK2,Nuts Mix,ACT,49.5,158.4
+North,2026,5,Snacks,SNK3,Crackers,ACT,22.5,63.0
+North,2026,6,Beverages,BEV1,Cola 330ml,ACT,132.0,290.4
+North,2026,6,Beverages,BEV2,Orange 500ml,ACT,84.0,201.6
+North,2026,6,Beverages,BEV4,Energy 250ml,ACT,36.0,126.0
+North,2026,6,Snacks,SNK1,Chips Salt,ACT,156.0,327.59999999999997
+North,2026,6,Snacks,SNK3,Crackers,ACT,30.0,84.0
+North,2026,7,Beverages,BEV1,Cola 330ml,ACT,110.0,242.0
+North,2026,7,Beverages,BEV2,Orange 500ml,ACT,70.0,168.0
+North,2026,7,Beverages,BEV4,Energy 250ml,ACT,30.0,105.0
+North,2026,7,Snacks,SNK1,Chips Salt,ACT,130.0,273.0
+North,2026,7,Snacks,SNK3,Crackers,ACT,25.0,70.0
+North,2026,3,Beverages,BEV1,Cola 330ml,BUD,105.0,220.5
+North,2026,3,Beverages,BEV2,Orange 500ml,BUD,75.0,165.0
+North,2026,3,Beverages,BEV3,Tonic 250ml,BUD,20.0,34.0
+North,2026,3,Snacks,SNK1,Chips Salt,BUD,125.0,262.5
+North,2026,3,Snacks,SNK2,Nuts Mix,BUD,50.0,155.0
+North,2026,4,Beverages,BEV1,Cola 330ml,BUD,105.0,220.5
+North,2026,4,Beverages,BEV2,Orange 500ml,BUD,75.0,165.0
+North,2026,4,Beverages,BEV3,Tonic 250ml,BUD,20.0,34.0
+North,2026,4,Snacks,SNK1,Chips Salt,BUD,125.0,262.5
+North,2026,4,Snacks,SNK2,Nuts Mix,BUD,50.0,155.0
+North,2026,5,Beverages,BEV1,Cola 330ml,BUD,105.0,220.5
+North,2026,5,Beverages,BEV2,Orange 500ml,BUD,75.0,165.0
+North,2026,5,Beverages,BEV3,Tonic 250ml,BUD,20.0,34.0
+North,2026,5,Snacks,SNK1,Chips Salt,BUD,125.0,262.5
+North,2026,5,Snacks,SNK2,Nuts Mix,BUD,50.0,155.0
+North,2026,6,Beverages,BEV1,Cola 330ml,BUD,105.0,220.5
+North,2026,6,Beverages,BEV2,Orange 500ml,BUD,75.0,165.0
+North,2026,6,Beverages,BEV3,Tonic 250ml,BUD,20.0,34.0
+North,2026,6,Snacks,SNK1,Chips Salt,BUD,125.0,262.5
+North,2026,6,Snacks,SNK2,Nuts Mix,BUD,50.0,155.0
+North,2026,7,Beverages,BEV1,Cola 330ml,BUD,105.0,220.5
+North,2026,7,Beverages,BEV2,Orange 500ml,BUD,75.0,165.0
+North,2026,7,Beverages,BEV3,Tonic 250ml,BUD,20.0,34.0
+North,2026,7,Snacks,SNK1,Chips Salt,BUD,125.0,262.5
+North,2026,7,Snacks,SNK2,Nuts Mix,BUD,50.0,155.0
+South,2026,3,Beverages,BEV1,Cola 330ml,ACT,50,100
+South,2026,3,Beverages,BEV1,Cola 330ml,BUD,48,96
+North,2026,3,Beverages,BAD1,Bad Zero,ACT,0,10
+North,2026,4,Snacks,BAD2,Bad Neg,BUD,-5,-15
